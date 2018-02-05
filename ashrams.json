@@ -1,8 +1,8 @@
 {
-  "squadName" : "samtavad",
-  "homeTown" : "sangat",
-  "formed" : 2018,
-  "secretBase" : "ashrams",
+  "squadName" : "Super hero squad",
+  "homeTown" : "Metro City",
+  "formed" : 2016,
+  "secretBase" : "Super tower",
   "active" : true,
   "members" : [
     {
@@ -19,224 +19,219 @@
        "name" : "Alipur Jahangirpur - Ashram",
        "place" : "Village & PO Alipur,Jahangirpur - 133202 Tehsil Barara,Distt. Ambala (Haryana) ",
       "contact" : "",
-    }
+    },
 	   {
        "name" : "Ambala Cantt. - Ashram",
        "place" : "Circular Road, Jain Model School,Ambala City - 134003 (Haryana) ",
       "contact" : "0171-2445478 ",
-    }
+    },
 	   {
        "name" : "Amritsar - Ashram",
        "place" : "Guru Ramdas Avenue, Near Mata Kaulan,Bhalai Kender, Tran - Taran Road, Amritsar - 143001 (Punjab) ",
       "contact" : "",
-    }
+    },
 	   {
        "name" : "Baldev Nagar - Ashram",
        "place" : "Baldev Nagar,Ambala City -134007 (Haryana) ",
       "contact" : "",
-    }
+    },
 	   {
        "name" : "Bareilly - Ashram",
        "place" : "Nai Basti, Prem Nagar,Bareilly - 243005 (U.P.) ",
       "contact" : "",
-    }
+    },
 	   {
        "name" : "Boh - Satsang Shala",
        "place" : "Village & P.O. Boh,Distt. Ambala- 133021 ",
       "contact" : "",
-    }
+    },
 	  {
        "name" : "Bikaner - Satsang Shala",
        "place" : "C/o Sh. B.N. Luthra, 1D/13 Pawanpuri Colony,Rajasthan Housing Board,Bikaner - 334003 (Rajasthan)",
       "contact" : "0151-2240470 ",
-    }
+    },
 	  {
        "name" : "Haldwani - Ashram",
        "place" : "Rampur Road, Rampur,Haldwani, Uttarakhand 263139, India ",
       "contact" : "",
-    }
+    },
 	  {
        "name" : "Jagadhri - Yog Ashram",
        "place" : "Chhachharauli Road, Jagadhri, Haryana 135003, India ",
       "contact" : "",
-    }
+    },
 	  {
        "name" : "Delhi - Ashram",
        "place" : "Ansal Palam Vihar Farm No. 45, New Delhi-110061, India ",
       "contact" : "",
-    }
+    },
 	  {
        "name" : "Bhopal - Satsang Shala",
        "place" : "C/o Sh. B.K. Joshi,100, Malviya Nagar,Bhopal - 462001 (M.P.) ",
       "contact" : "",
-    }
+    },
 	  {
        "name" : "Chandigarh - Satsang Shala",
        "place" : "C/o Chaman Lal Sharma,House No. 7, Sector-32-A,Chandigarh ",
       "contact" : "",
-    }
+    },
 	  {
        "name" : "Dehradun - Satsang Shala",
        "place" : "Old Survey Road, Dilaram Bazar,Dehradun - 248001 (Uttranchal) ",
       "contact" : "",
-    }  {
+    },  {
        "name" : "Dhariwal - Satsang Shala",
        "place" : "SAMTA GYM c/o Sh. Hira Lal Khosla, Near Bhullar Ice Factory, Dhariwal-143519, Punjab ",
       "contact" : "9781752047",
-    }  {
+    },  {
        "name" : "Dhariwal - Satsang Shala",
        "place" : "Gopi Geeta Verma, Mohalla Gopal Nagar Dhariwal-143519 Punjab",
       "contact" : "9115869450",
-    }
+    },
 	{
        "name" : "Panipat - Ashram",
        "place" : "C/o Jagdishlal 20 A, Gol market,Panipat (Haryana)",
       "contact" : "0180-2651630",
-    }
+    },
 		{
        "name" : "Dherian - Satsang Shala",
        "place" : "Village Dherian, Post Office Sianiwal,Tehseel Nakodar,Distt. Jallandhar - 141310",
       "contact" : "",
-    }	{
+    },	{
        "name" : "Ferozpur - Ashram",
        "place" : "Border Road, Near Janta Cold Storage,Ferozpur- 152002, (Punjab)",
       "contact" : "01632-223588 (R) 01632-309437, 224559 (S)",
-    }	{
+    },	{
        "name" : "Jaitsar - Satsang Shala",
        "place" : "4. L.C. Jaitsar,Sri Ganganagar ",
       "contact" : "",
-    }	{
+    },	{
        "name" : "Gurdaspur - Ashram",
        "place" : "Singnalpura Road,Gurdaspur - 143521 (Punjab) ",
       "contact" : "",
-    }	{
+    },	{
        "name" : "Ganeshpur - Satsang shala",
        "place" : "Jaswant Singh S/o Sh. Hazara Singh, V P O BHARTA GANESHPUR, GARHSHANKAR, Via Mahilpur, HOSHIARPUR - 146105, Punjab",
       "contact" : "",
-    }	{
+    },	{
        "name" : "Hoshiarpur - Satsang shala",
        "place" : "Sh. K K Sharma, B-12/334/4, Dhaba Street, New Jagatpura, Hoshiarpur ",
       "contact" : "",
-    }	{
+    },	{
        "name" : "Jalandhar - Satsang Shala",
        "place" : "C/o Sh. Inder Jit Bajaj, 223, New Jwahar Nagar (Punjab)",
       "contact" : "0181-5079572, 09872418585",
-    }	{
+    },	{
        "name" : "Jamal Majra - Satsang Shala",
        "place" : "C/o Sh. P.C. Kassal, Village Jamal Majra,Post Duliani, Tehsil Barara,Distt. Ambala - 133201 (Haryana)",
       "contact" : "01731-262904 ",
-    }	{
+    },	{
        "name" : "Kalka - Satsang Shala",
        "place" : "C/o Panchvati, Army Officers Enclave,Kalka - 133302, (Haryana)",
       "contact" : "01733-224444, 09416495144(M) ",
-    }	{
+    },	{
        "name" : "Jammu - Satsang Shala",
        "place" : "Vridh Ashram, Jail Road,Jammu - 181001, (J & K) ",
       "contact" : "",
-    }	{
+    },	{
        "name" : "Kalka - Satsang Shala",
        "place" : "C/o Panchvati, Army Officers Enclave,Kalka - 133302, (Haryana)",
       "contact" : "01733-224444, 09416495144(M) ",
-    }	{
+    },	{
        "name" : "Kahnuwan - Yog Ashram",
        "place" : "V. P.O. Kahnuwan, Dist. Gurdaspur - 143528, Punjab ",
       "contact" : "",
-    }	{
+    },	{
        "name" : "Karnal - Ashram",
        "place" : "C/o Sh. P.L. Rishi,446 sector 8 Urban Estate,Karnal - 132001",
       "contact" : "0184-2232815 ",
-    }	{
+    },	{
        "name" : "Kanpur - Ashram",
        "place" : "C/o Dr. Ram Prakash Dhall,117/491, Pandev Nagar Kanpur - 208022",
       "contact" : "0512-2235823 ",
-    }	{
+    },	{
        "name" : "Khijrabad - Satsang Shala",
        "place" : "Vill. & Post Khijrabad, Tehsil Chhachhrauli,Distt. Yamuna Nagar - 135021 (Haryana) ",
       "contact" : "",
-    }
+    },
 	{
        "name" : "Khanouri - Satsang Shala",
        "place" : "C/o Sh. Brij Bhushan Garg,Cement Store, Khanouri Mandi, Sangrur (Punjab) ",
       "contact" : "",
-    }
+    },
 	{
        "name" : "Ludhiana - Satsang Shala",
        "place" : "C/o Sh. Munshi Ram Malhotra,House No. 4193, Gali No. 3 New Madhopuri,Ludhiana - 141001",
       "contact" : "0161-2621581 ",
-    }
+    },
 	{
        "name" : "Malout - Ashram",
        "place" : "Samta Raj Yog Ashram, Burja Road, Malout - 152107, Punjab",
       "contact" : "",
-    }
+    },
 	{
        "name" : "Meerut - Ashram",
        "place" : "C/o Sh. Lachman Das Gera,D-124, Shastri Nagar,Meerut City- 250002 (Meerut) ",
       "contact" : "0121-2766019 ",
-    }
+    },
 	{
        "name" : "Mustafabad - Satsang Shala",
        "place" : "C/o Sh. Shant Singh Bakshi,Village & Post Office Mustafabad, Distt. Yamuna Nagar ",
       "contact" : "",
-    }
+    },
 	{
        "name" : "Nowshera - Ashram",
        "place" : "Samta Yog Ashram, Kalal, Nowshera-185131, Rajouri, Jammu & Kashmir ",
       "contact" : "",
-    }
+    },
 	{
        "name" : "Pathankot - Satsang Shala",
        "place" : "Shahpur Chowk,Near Brahmin Sabha Mandir,Pathankot - 145001.Gurdaspur - (Punjab) ",
       "contact" : "",
-    }
+    },
 	{
        "name" : "Patiala - Ashram",
        "place" : "C/o Sh. Suresh Bakshi,House No. 249, Harinder Nagar,Patiala - 140401 (Punjab) ",
       "contact" : "09872837249 ",
-    }
+    },
 	{
        "name" : "Panjlasa - Satsang Shala",
        "place" : "C/o Sh. Gulshan Kumar,House No 62, Near Bus Stand,Husaini Road, Narain Garh,(Panjlasa) ",
       "contact" : "",
-    }{
+    },{
        "name" : "Shimla - Ashram",
        "place" : "C/o Sh. S K Awasthy,House No. 5, I A S Colony,Pantha Ghati, SHIMLA - 171 009",
       "contact" : "0941 6495144 ",
-    }
+    },
 	{
        "name" : "Sonipat - Satsang Shala",
        "place" : "Street No. 1,Ramehwar Puram,Kabir Pur Road,Sonipat - 131001 (Haryana)",
       "contact" : "0130-2260045 ",
-    }
+    },
 		{
        "name" : "Sonipat - Satsang Shala",
        "place" : "Street No. 1,Ramehwar Puram,Kabir Pur Road,Sonipat - 131001 (Haryana)",
       "contact" : "0130-2260045 ",
-    }
+    },
 		{
        "name" : "Sadhaura - Ashram",
        "place" : "Village & Post,Sadhaura - 133204.Distt. Yamuna Nagar (Haryana)",
       "contact" : " ",
-    }
+    },
 		{
        "name" : "Subash Garh - Satsang Shala",
        "place" : "Village & PO Subash Garh,Haridwar- 249401 (Uttranchal) ",
       "contact" : " ",
-    }
+    },
 		{
        "name" : "Sunderbani - Ashram",
        "place" : "Samta Yog Ashram, Village & Post Office Sunderbani - 185153, Dist Rajouri, Jammu & Kashmir ",
       "contact" : "",
-    }
+    },
 		{
        "name" : "West Bengal - Satsang Shala",
        "place" : "Village Ghoshergram,P.O. Kharbona, Distt. Bankura,West Bengal - 722137",
-      "contact" : "03242-270117  ",
-    }
-		{
-       "name" : "Yamuna Nagar - Ashram",
-       "place" : "Near I.T.I., Civil Lines, Jagadhari City- 135003 (Yamuna Nagar) ",
-      "contact" : "",
+      "contact" : "0130-2260045 ",
     }
   ]
 }
