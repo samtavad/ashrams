@@ -35,7 +35,7 @@
        "place" : "Baldev Nagar,Ambala City -134007 (Haryana) ",
       "contact" : ""
     },
-	{
+	 {
        "name" : "Bareilly - Ashram",
        "place" : "Nai Basti, Prem Nagar,Bareilly - 243005 (U.P.) ",
       "contact" : ""
@@ -43,59 +43,6 @@
 	   {
        "name" : "Boh - Satsang Shala",
        "place" : "Village & P.O. Boh,Distt. Ambala- 133021 ",
-      "contact" : ""
-    },
-	  {
-       "name" : "Bikaner - Satsang Shala",
-       "place" : "C/o Sh. B.N. Luthra, 1D/13 Pawanpuri Colony,Rajasthan Housing Board,Bikaner - 334003 (Rajasthan)",
-      "contact" : "0151-2240470 "
-    },
-	  {
-       "name" : "Haldwani - Ashram",
-       "place" : "Rampur Road, Rampur,Haldwani, Uttarakhand 263139, India ",
-      "contact" : ""
-    },
-	  {
-       "name" : "Jagadhri - Yog Ashram",
-       "place" : "Chhachharauli Road, Jagadhri, Haryana 135003, India ",
-      "contact" : ""
-    },
-	  {
-       "name" : "Delhi - Ashram",
-       "place" : "Ansal Palam Vihar Farm No. 45, New Delhi-110061, India ",
-      "contact" : ""
-    },
-	  {
-       "name" : "Bhopal - Satsang Shala",
-       "place" : "C/o Sh. B.K. Joshi,100, Malviya Nagar,Bhopal - 462001 (M.P.) ",
-      "contact" : ""
-    },
-	  {
-       "name" : "Chandigarh - Satsang Shala",
-       "place" : "C/o Chaman Lal Sharma,House No. 7, Sector-32-A,Chandigarh ",
-      "contact" : ""
-    },
-	  {
-       "name" : "Dehradun - Satsang Shala",
-       "place" : "Old Survey Road, Dilaram Bazar,Dehradun - 248001 (Uttranchal) ",
-      "contact" : ""
-    },  {
-       "name" : "Dhariwal - Satsang Shala",
-       "place" : "SAMTA GYM c/o Sh. Hira Lal Khosla, Near Bhullar Ice Factory, Dhariwal-143519, Punjab ",
-      "contact" : "9781752047"
-    },  {
-       "name" : "Dhariwal - Satsang Shala",
-       "place" : "Gopi Geeta Verma, Mohalla Gopal Nagar Dhariwal-143519 Punjab",
-      "contact" : "9115869450"
-    },
-	{
-       "name" : "Panipat - Ashram",
-       "place" : "C/o Jagdishlal 20 A, Gol market,Panipat (Haryana)",
-      "contact" : "0180-2651630"
-    },
-		{
-       "name" : "Dherian - Satsang Shala",
-       "place" : "Village Dherian, Post Office Sianiwal,Tehseel Nakodar,Distt. Jallandhar - 141310",
       "contact" : ""
     },
     {
