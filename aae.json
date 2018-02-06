@@ -1,0 +1,34 @@
+{
+  "squadName" : "Super hero squad",
+  "homeTown" : "Metro City",
+  "formed" : 2016,
+  "secretBase" : "Super tower",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "Abohar - Ashram",
+      "place" : "C/o M/s Bhali Ram Bhupinder Kumar,Mukerjee Market, Abohar - 152116 (Punjab)",
+      "contact" : "01634-221176 (R), 01634-0220388 (S)"
+    },
+	{
+      "name" : "Agra - Ashram",
+       "place" : "33, Char Rahat,Balu Ganj,Agra- 248002, (U.P.) - 282001 ",
+      "contact" : "N/A"
+    },
+    {
+       "name" : "Alipur Jahangirpur - Ashram",
+       "place" : "Village & PO Alipur,Jahangirpur - 133202 Tehsil Barara,Distt. Ambala (Haryana) ",
+      "contact" : "N/A"
+    },
+    {
+      "name" : "Madame Uppercut",
+       "place" : "C/o M/s Bhali Ram Bhupinder Kumar,Mukerjee Market, Abohar - 152116 (Punjab)",
+      "contact" : "N/A"
+    },
+    {
+      "name" : "Eternal Flame",
+             "place" : "C/o M/s Bhali Ram Bhupinder Kumar,Mukerjee Market, Abohar - 152116 (Punjab)",
+      "contact" : "01634-221176 (R), 01634-0220388 (S)"
+    }
+  ]
+}
