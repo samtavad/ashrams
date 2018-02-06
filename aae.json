@@ -13,17 +13,32 @@
 	{
       "name" : "Agra - Ashram",
        "place" : "33, Char Rahat,Balu Ganj,Agra- 248002, (U.P.) - 282001 ",
-      "contact" : "N/A"
+      "contact" : ""
     },
     {
        "name" : "Alipur Jahangirpur - Ashram",
        "place" : "Village & PO Alipur,Jahangirpur - 133202 Tehsil Barara,Distt. Ambala (Haryana) ",
-      "contact" : "N/A"
+      "contact" : ""
+    },
+	{
+       "name" : "Ambala Cantt. - Ashram",
+       "place" : "Circular Road, Jain Model School,Ambala City - 134003 (Haryana) ",
+      "contact" : "0171-2445478 "
+    },
+	   {
+       "name" : "Amritsar - Ashram",
+       "place" : "Guru Ramdas Avenue, Near Mata Kaulan,Bhalai Kender, Tran - Taran Road, Amritsar - 143001 (Punjab) ",
+      "contact" : ""
+    },
+	   {
+       "name" : "Baldev Nagar - Ashram",
+       "place" : "Baldev Nagar,Ambala City -134007 (Haryana) ",
+      "contact" : ""
     },
     {
       "name" : "Madame Uppercut",
        "place" : "C/o M/s Bhali Ram Bhupinder Kumar,Mukerjee Market, Abohar - 152116 (Punjab)",
-      "contact" : "N/A"
+      "contact" : ""
     },
     {
       "name" : "Eternal Flame",
